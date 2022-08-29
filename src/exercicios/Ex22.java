@@ -23,7 +23,7 @@ public class Ex22 {
         for (; i <3 ; i++) {
 
             System.out.print("Digite o nome do produto: ");
-            nomeProduto = scanner.nextLine();
+            nomeProduto = scanner.next();
 
             System.out.print("Digite o preço de custo: ");
             precoCusto = scanner.nextFloat();
@@ -44,7 +44,7 @@ public class Ex22 {
                 }
             }
 
-            System.out.println(nomeProduto + "Preço de custo: " + precoCusto + ", Preço de venda: " + precoVenda);
+            System.out.println(nomeProduto + " Preço de custo: " + precoCusto + ", Preço de venda: " + precoVenda);
             System.out.println("");
         }
 
