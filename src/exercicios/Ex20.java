@@ -29,7 +29,7 @@ public class Ex20 {
 
         System.out.println("");
 
-        System.out.println("=== Concessonária CARANGO VELHO ===");
+        System.out.println("=== Concess onária CARANGO VELHO ===");
 
 
         while (continuar == 'S' || continuar == 's') {
